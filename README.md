@@ -4,9 +4,9 @@ This is a simple program that works with an Arduino, RTC, relays and a solenoid 
 ![](board_image2.jpg)
 
 **Goals:**  
--[] Redesign the PCB with custom Micro-Controller and relay board  
--[] Add a schematic diagram to this page  
--[] Add soil detection features to check moisture, temp and other stats   
+- [x] Redesign the PCB with custom Micro-Controller and relay board  
+- [] Add a schematic diagram to this page  
+- [] Add soil detection features to check moisture, temp and other stats   
 
 **BOM:**  
 - Arduino UNO or ATmega328 or ATtiny 85  
