@@ -4,7 +4,7 @@ This is a simple program that works with an Arduino, RTC, relays and a solenoid 
 
 **Goals:**  
 - [x] Redesign the PCB with custom Micro-Controller and relay board for version 2
-- [ ] Add a schematic diagram to this page  
+- [x] Add a schematic diagram to this page  
 - [ ] Add soil detection features to check moisture, temp and other stats   
 
 **BOM: Needs to be updated with schematic and PCB design files**  
@@ -18,6 +18,6 @@ This is a simple program that works with an Arduino, RTC, relays and a solenoid 
 - 12V Lead acid battery or other 12V Lithium battery System  
 - Solar charge controller  
 
-![](board_image1.jpg)
-![](board_image2.jpg)
+![](images/board_image1.jpg)
+![](images/board_image2.jpg)
 
